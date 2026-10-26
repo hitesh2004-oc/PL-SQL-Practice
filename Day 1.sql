@@ -13,7 +13,6 @@
 
 -- PL SQL Cursor
 -- this is pinter which Provide the Control over the Result of SQL queries.
-
 -- DECLARE
 --     var int := 1;
 -- BEGIN
